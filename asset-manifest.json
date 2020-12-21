@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/github.io/todolist/static/js/main.1c8e8ccd.chunk.js",
+    "main.js.map": "/github.io/todolist/static/js/main.1c8e8ccd.chunk.js.map",
+    "runtime-main.js": "/github.io/todolist/static/js/runtime-main.938b7270.js",
+    "runtime-main.js.map": "/github.io/todolist/static/js/runtime-main.938b7270.js.map",
+    "static/css/2.cfb9cd3c.chunk.css": "/github.io/todolist/static/css/2.cfb9cd3c.chunk.css",
+    "static/js/2.a72f538e.chunk.js": "/github.io/todolist/static/js/2.a72f538e.chunk.js",
+    "static/js/2.a72f538e.chunk.js.map": "/github.io/todolist/static/js/2.a72f538e.chunk.js.map",
+    "index.html": "/github.io/todolist/index.html",
+    "precache-manifest.ab0c20fe935ba77c06fa6931f72fcb61.js": "/github.io/todolist/precache-manifest.ab0c20fe935ba77c06fa6931f72fcb61.js",
+    "service-worker.js": "/github.io/todolist/service-worker.js",
+    "static/css/2.cfb9cd3c.chunk.css.map": "/github.io/todolist/static/css/2.cfb9cd3c.chunk.css.map",
+    "static/media/all.min.css": "/github.io/todolist/static/media/fa-solid-900.c2801fb4.svg"
+  }
+}
